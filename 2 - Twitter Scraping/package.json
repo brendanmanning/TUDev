@@ -1,0 +1,14 @@
+{
+  "name": "twitter_scraper",
+  "version": "1.0.0",
+  "description": "1. Install twitter scraper `pip3 install twint` 2. Create parser script `touch fetch.sh && chmod +x fetch.sh`",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
